@@ -2,7 +2,7 @@
 - 👀 I’m interested in linux
 - 🌱 I’m currently learning linux
 - 💞️ I’m looking to collaborate on linux
-- 📫 How to reach me ...
+- 📫 How to reach me https://alessadrocampanelli.wordpress.com
 
 <!---
 acampanellia/acampanellia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
